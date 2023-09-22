@@ -1,6 +1,6 @@
 # dummy-repo
 Dummy repository to be used for demonstrating git stuff
 
-stuff here.
+Stuff here.
 
-more new stuff.
+More new stuff.
