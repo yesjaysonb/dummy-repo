@@ -1,8 +1,8 @@
 # dummy-repo
-summy repository to be used for demonstrating git stuff
+Dummy repository to be used for demonstrating git stuff
 
-stuff here.
+Stuff here.
 
-more new stuff.
+More new stuff.
 
-i am trying this at home.
+I am trying this at home.
